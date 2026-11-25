@@ -1,0 +1,6 @@
+{
+  "name": "ryzeup",
+  "pages_build_output_dir": "./dist",
+  "compatibility_date": "2025-01-01",
+  "kv_namespaces": [{ "binding": "XE_DATA", "id": "ccd1334c996a4043a512a8ed9059e52f" }]
+}
